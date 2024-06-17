@@ -1,3 +1,7 @@
-fluidcloudnative/csi-node-driver-registrar:v2.3.0
-fluidcloudnative/fluid-csi:v1.0.1-38cd089
-fluidcloudnative/init-users:v0.9.0
+#gcr.io/k8s-minikube/kicbase:v0.0.44
+#fluidcloudnative/csi-node-driver-registrar:v2.3.0
+#fluidcloudnative/fluid-csi:v1.0.1-38cd089
+#fluidcloudnative/init-users:v0.9.0
+
+golang@sha256:9de71b0e347a257cb44b112aeffd7de8133a731f6edb4bd10183a13eaf45d030
+alpine@sha256:11e21d7b981a59554b3f822c49f6e9f57b6068bb74f49c4cd5cc4c663c7e5160
