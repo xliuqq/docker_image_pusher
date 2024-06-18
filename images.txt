@@ -6,6 +6,9 @@
 #golang@sha256:9de71b0e347a257cb44b112aeffd7de8133a731f6edb4bd10183a13eaf45d030
 #alpine@sha256:11e21d7b981a59554b3f822c49f6e9f57b6068bb74f49c4cd5cc4c663c7e5160
 
-fluidcloudnative/juicefsruntime-controller:v1.0.1-38cd089
-juicedata/juicefs-fuse:ce-v1.1.0-rc1
-alluxio/alluxio-dev:2.9.0
+#fluidcloudnative/juicefsruntime-controller:v1.0.1-38cd089
+#juicedata/juicefs-fuse:ce-v1.1.0-rc1
+#alluxio/alluxio-dev:2.9.0
+
+nginx:stable-perl
+busybox:stable-musl
