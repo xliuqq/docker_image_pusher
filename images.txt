@@ -10,5 +10,7 @@
 #juicedata/juicefs-fuse:ce-v1.1.0-rc1
 #alluxio/alluxio-dev:2.9.0
 
-nginx:stable-perl
-busybox:stable-musl
+#nginx:stable-perl
+#busybox:stable-musl
+
+centos:7
