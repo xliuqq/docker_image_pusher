@@ -13,4 +13,7 @@
 #nginx:stable-perl
 #busybox:stable-musl
 
-centos:7
+#centos:7
+fluidcloudnative/csi-node-driver-registrar:v2.14.0
+fluidcloudnative/fluid-csi:v1.1.0-b0bdac58
+juicedata/juicefs-fuse:ce-v1.3.0
