@@ -14,6 +14,12 @@
 #busybox:stable-musl
 
 #centos:7
-fluidcloudnative/csi-node-driver-registrar:v2.14.0
-fluidcloudnative/fluid-csi:v1.1.0-b0bdac58
-juicedata/juicefs-fuse:ce-v1.3.0
+#fluidcloudnative/csi-node-driver-registrar:v2.14.0
+#fluidcloudnative/fluid-csi:v1.1.0-b0bdac58
+#juicedata/juicefs-fuse:ce-v1.3.0
+
+fluidcloudnative/dataset-controller:v1.1.0-b0bdac58
+fluidcloudnative/juicefsruntime-controller:v1.1.0-b0bdac58
+fluidcloudnative/fluid-webhook:v1.1.0-b0bdac58
+fluidcloudnative/fluidapp-controller:v1.1.0-b0bdac58
+
