@@ -18,6 +18,8 @@
 #fluidcloudnative/dataset-controller:v1.1.0-b0bdac58
 #fluidcloudnative/juicefsruntime-controller:v1.1.0-b0bdac58
 #fluidcloudnative/fluid-webhook:v1.1.0-b0bdac58
-fluidcloudnative/application-controller:v1.1.0-b0bdac58
-minio/minio
+#fluidcloudnative/application-controller:v1.1.0-b0bdac58
+#minio/minio
+
+ghcr.io/curvineio/curvine:latest
 
